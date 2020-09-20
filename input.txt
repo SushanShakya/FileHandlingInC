@@ -1,0 +1,6 @@
+This C program is just for fun and intended to separate the lines in a file
+and then use dynamic memory allocation to store the data from the file
+into a 2D list like structure...
+I had a really hard time trying to figure this out and i still dont think
+that i have it nailed down !!	
+Looks like i have a lot to learn
